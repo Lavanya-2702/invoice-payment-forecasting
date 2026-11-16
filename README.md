@@ -6,7 +6,7 @@
 
 ## Key findings
 
-- The best model (LightGBM) predicts payment timing with an average error of **2.58 days**: **40% better** than 
+- The best model (XGBoost) predicts payment timing with an average error of **2.58 days**: **40% better** than 
   assuming customers pay on the due date, and **24% better** than using each customer's average delay.
 - About **80%** of test invoices are predicted within ±3 days of the actual payment date.
 - Of the 9,681 open invoices ($312.5M), the model expects about 65% to be paid on time or early and 
