@@ -1,6 +1,6 @@
 # Invoice Payment Forecasting: Delay Prediction and Aging Buckets
 
--Predicts when each customer invoice will actually be paid
+Predicts when each customer invoice will actually be paid
 -Groups open invoices into aging buckets, and 
 -Tracks Days Sales Outstanding (DSO), using invoice-level accounts receivable data.
 
